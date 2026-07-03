@@ -1,4 +1,4 @@
-<p align="center"> <img src="/banner.png" alt="AI Interview Prep Banner" width="100%"> </p> 
+<p align="center"> <img src="/banner.png" alt=" Banner" width="100%"> </p> 
 # Hi there 👋 I'm Siddhi Singh
 
 ### Backend Developer | Building Reliable Backend Systems
