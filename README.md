@@ -151,21 +151,21 @@ Authentication system focused on secure login, authorization, abuse prevention, 
 
 <p align="center">
   <a href="https://github.com/Siddhi561/Projectify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi561&repo=Projectify&theme=dracula" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Siddhi561&repo=Projectify&theme=dracula" />
   </a>
 
   <a href="https://github.com/Siddhi561/AI_InterviewPrep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi561&repo=AI_InterviewPrep&theme=dracula" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Siddhi561&repo=AI_InterviewPrep&theme=dracula" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Siddhi561/API-Gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi561&repo=API-Gateway&theme=dracula" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Siddhi561&repo=API-Gateway&theme=dracula" />
   </a>
 
   <a href="https://github.com/Siddhi561/Webhook-Delivery-Service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi561&repo=Webhook-Delivery-Service&theme=dracula" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Siddhi561&repo=Webhook-Delivery-Service&theme=dracula" />
   </a>
 </p>
 
